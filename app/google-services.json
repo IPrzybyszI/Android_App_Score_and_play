@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "413634749082",
+    "firebase_url": "https://projekt-na-uczelnie-c1d25-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projekt-na-uczelnie-c1d25",
+    "storage_bucket": "projekt-na-uczelnie-c1d25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413634749082:android:98891c9423e59f08b73523",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOixpupdsyh4BzcdhJyn5AoxsOG5SDu8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
